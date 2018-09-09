@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AlexandrLi/fancy-burger-builder.svg?branch=master)](https://travis-ci.org/AlexandrLi/fancy-burger-builder)
+[![Build Status](https://travis-ci.org/AlexandrLi/fancy-burger-builder.svg?branch=master)](https://travis-ci.org/AlexandrLi/fancy-burger-builder) [Live Demo](https://alexandrli.github.io/fancy-burger-builder)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
